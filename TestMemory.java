@@ -7,7 +7,7 @@ import android.util.Log;
 import java.text.DecimalFormat;
 
 /**
- * Created by Bismita rath /satyam kumar naik subham kumar naik 
+ * Created by Bismita rath /satyam kumar naik /subham kumar naik 
  */
 public class TestMemory {
 
