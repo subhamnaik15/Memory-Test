@@ -1,0 +1,40 @@
+Memory Test
+
+1.How To use ?
+
+TestMemory.memory(this);
+
+2.How it's work ?
+
+It will Display the memory uses of the Device in MB.
+
+*Getting the runtime reference from system
+*Print used memory
+*Print free memory
+*Print total available memory
+*Print Maximum available memory
+
+Example 
+
+Display in log while reading a message form DB
+
+E/tag:  =================================
+E/tag: heap native: allocated 9.49MB of 16.00MB (6.10MB free)
+E/tag: memory: allocated: 13.00MB of 128.00MB (2.00MB free)
+E/Heap: ##### Heap utilization statistics [MB] #####
+E/Memory: Used Memory:10
+E/Free: Free Memory:2
+E/Total: Total Memory:13
+E/Max: Max Memory:128
+
+
+ 
+
+Date - 22 june 2016
+By - Satyam Kumar Naik
+        Subham Kumar Naik
+
+
+
+
+
